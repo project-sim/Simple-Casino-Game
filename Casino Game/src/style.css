@@ -1,0 +1,7 @@
+.RangeBox1, .RangeBox2, .InputBox1, .InputBox2{
+    display: inline-block;
+}
+
+.LineHeight {
+    line-height: 2px;
+}
